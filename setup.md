@@ -1,28 +1,26 @@
-I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This](https://usesthis.com/) a few years ago. It usually lives as [a page on this blog](http://teknostatik.co.uk/setup/), but as I've rewritten 95% of it today then I think it deserves to be a blog post.
+I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This](https://usesthis.com/) a few years ago. It usually lives as [a page on this blog](http://teknostatik.co.uk/setup/), but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time.
 
 ## The hardware I use
 
-Work - Surface Pro 4, with a Targus dock, two generic monitors and a Microsoft keyboard and mouse.
+Home - I've just bought a new desktop computer that _mostly_ consists of components that are fairly new (this is a first for me). Everything feels snappy and fast, and I love it. I also have three monitors (now identical in both size and resolution which pleases me), a mechanical keyboard, a hand-me-down gaming mouse, and all the docks, cables and switches to connect everything together. My personal laptops are both Thinkpads - an x260 for travel and couch-surfing, and an x230 which largely gets used for digitising vinyl. I also have a variety of small laptops and Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes.
 
-Home - A setup that looks superficially the same as work, but is older, has more cables, and has an excellent [solar powered keyboard][2] that is far superior to the Microsoft one I use at work. It also replaces the Surface Pro with a proper laptop, and adds a server with lots of memory that runs my (internal) Wordpress sites and contains a backup of all my music. I also have a variety of small laptops and Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes.
+Work from home - As home, but with a Thinkpad L13 doing the driving. All it requires is a couple of cable switches and toggling the input on two of my monitors. I'd love to do this without crawling under my desk, but that's a problem for another day.
 
-Work from home - As home, but with an additional VM that allows me to connect to a remote desktop. Sometimes I'll plug the Surface in, but that is only required for certain types of work and it's far from my default setup now.
+Work - I've not been in my office for a while, but I think I still have something largely similar to my home setup, but with one less screen.
 
-Travel - [Chromebook](https://www.google.com/chromebook/), [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/), iPad (sometimes), Kindle and phone. Sometimes I'll travel with my laptop, but that is rare. I also carry bootable USB versions of [Ubuntu](https://www.ubuntu.com/) and [Tails](https://tails.boum.org/) everywhere I go (even places I don't take a computer). Increasingly my travel hardware also includes a bike and related tools.
+Travel - I don't travel right now, but which I did it would be some combination of a Thinkpad, [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/), iPad (sometimes), Kindle and phone. I also carry bootable USB versions of [Ubuntu](https://www.ubuntu.com/) and [Tails](https://tails.boum.org/) everywhere I go (even places I don't take a computer). Increasingly my travel hardware also includes a bike and related tools.
 
 ## The software I use
 
-At work I’m running Windows 10. It's ok, but I would like to be able to live without it.
+At work I’m running Windows 10. It's ok, but I would like to be able to live without it. Most of my days is spent doing video calls using either Teams or Zoom.
 
-At home (and whilst travelling) It’s a mix of [Ubuntu](https://www.ubuntu.com/), iOS, [LibreElec](https://libreelec.tv/) [ChromeOS](https://en.wikipedia.org/wiki/Chrome_OS) and [Raspbian](http://www.raspbian.org/) (although I also have computers running Windows 10 and Mac OS that are rarely switched on now). Some of this is the legacy of spending the first half of 2018 trying to live with each main desktop OS for at least a month, which I must get round to writing up properly soon.
+At home (and whilst travelling) It’s a mix of [Ubuntu](https://www.ubuntu.com/), iOS, [LibreElec](https://libreelec.tv/) and [Raspbian](http://www.raspbian.org/). I've been using the i3 window manager for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
 
-I use Firefox, Chrome and Safari on a daily basis, although Firefox has always been my main browser.
+Firefox has always been my main browser, and it surprises me that more people don't use it.
 
 Other software I use that I feel is somewhat noteworthy includes:
 
 [Wordpress](https://wordpress.org/) - All my blogs run on WordPress, including several that are only available on my home network (including an extensive knowledge base containing all IT related things I learn). I currently maintain a WordPress multisite installation and several stand alone sites.
-
-[Evernote][5] - I use this on every device I own (largely the web version now though), mostly to take notes in meetings and training sessions, and then to revise/reflect later. A lot of my notes are now photographs of whiteboards and other hand drawn scribbles, which Evernote handles very well.
 
 [Atom][6] - A text editor that handles Markdown well, and can preview and export to PDF. I also use [Pandoc][7] to convert to PDF, HTML and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else).
 
@@ -32,28 +30,30 @@ Other software I use that I feel is somewhat noteworthy includes:
 
 [IFTTT][11] and [Buffer][12] - To automate as much as possible. Between them they handle a lot of the seemingly clever things in my digital life, and explain why I seem to be able to post to social media sites at times when I appear to be elsewhere.
 
-[Virtualbox][14] - Because no-one needs as many physical computers as I had before virtualisation was a thing.
+[Virtualbox][14] and [Multipass][8] - Because no-one needs as many physical computers as I had before virtualisation was a thing.
 
-[Spotify](https://open.spotify.com/) for discovering new music, and [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) for playing the music I already own.
+[Spotify][5] for discovering new music, and [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) for playing the music I already own.
+
+[Github][16] for collecting together code that I've written and making the way my computers are set up available to other people in case it's useful.
 
 ## My dream setup
 
 Maybe I'm already living the dream, but the one thing I'd really like is to go back to doing everything on one computer (ideally running Ubuntu). That was possible 10 years ago, and I'm sad that it doesn't seem possible today. I also yearn to live the life of a nomad, with just a bike, a change of clothes, and a tiny laptop to my name.
 
-*Last updated 19h June 2018*
 
  [1]: http://teknostatik.co.uk/now/
  [2]: http://support.logitech.com/product/wireless-solar-keyboard-k760-for-mac
  [3]: http://www.cocooninnovations.com/grid.php
  [4]: http://www.amazon.co.uk/Ion-LP-Vinyl-Archiving-Turntable-Converter/dp/B0029QRA1U
- [5]: http://evernote.com
+ [5]: https://open.spotify.com/
  [6]: https://atom.io/
  [7]: http://pandoc.org/
- [8]: https://www.bywordapp.com
+ [8]: https://multipass.run/
  [9]: https://trello.com
  [10]: https://www.dropbox.com/
  [11]: https://ifttt.com/
  [12]: https://buffer.com
- [13]: http://www.qsrinternational.com/products_nvivo.aspx
+ [13]: https://wiki.gnome.org/Apps/Rhythmbox
  [14]: https://www.virtualbox.org/
  [15]: https://libreelec.tv/
+ [16]: https://github.com/teknostatik
