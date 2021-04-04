@@ -1,3 +1,11 @@
+# Biographies
+
+## Professional (short)
+
+I'm Andy Ferguson, Service Transition Manager in the Service Management Team. I work with teams to help them deliver functional and supportable services that add value to the University. I generally work in the build/test/release part of the development lifecycle, but also work on transitioning services from ELS into BAU, and also (occasionally) on decommissioning things we don't need any more (we are bad at this). I also work on developing and enhancing ServiceNow to streamline and automate processes, generally concentrating on things that add value to areas outside ITS (ESM) and also the parts of the tool that records and measures the success of new services.
+
+## Personal (for blog, needs updating)
+
 Music – I listen to music a great deal, and also write about it on this blog. I have a small group of people I talk to about music, and am always looking for new things to listen to and new people to talk to. I also started buying CDs again at the end of 2014, and signed up to Rough Trade’s album of the month vinyl subscription in early 2015.
 
 Movies and TV shows – I’ve been cataloguing every movie I watch since December 2012, and I’m always looking for recommendations from friends and strangers. I tend to like things that make me think, or that teach me something new about myself, the world in general, or the person who made the recommendation in the first place. I am also very partial to quite arty films, and especially those with subtitles.
