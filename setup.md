@@ -1,3 +1,5 @@
+# My Setup
+
 I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This][19] a few years ago. It used to live as a page in my blog, but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time.
 
 ## The hardware I use
@@ -14,7 +16,7 @@ Travel - I don't travel right now, but which I did it would be some combination 
 
 At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom.
 
-At home (and whilst travelling) It’s a mix of [Ubuntu][21], [LibreElec][22] and [Raspbian][23]. I've been using the i3 window manager for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
+At home (and whilst travelling) It’s a mix of [Ubuntu][21], [LibreElec][22] and [Raspbian][23]. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
 
 Firefox has always been my main browser, and it surprises me that more people don't use it.
 
@@ -67,3 +69,4 @@ Maybe I'm already living the dream, but the one thing I'd really like is to go b
  [24]: https://wordpress.org/
  [25]: https://www.lenovo.com/gb/en/laptops/thinkpad/l-series/ThinkPad-L13-Gen-2/p/22TPL13L3N2
  [26]: https://www.amazon.co.uk/Hcman-Mechanical-Keyboard-Switches-Anti-ghosting-87-Keys-LED-Black/dp/B0713PRC21
+ [27]: https://i3wm.org/
