@@ -12,7 +12,7 @@ Travel - I don't travel right now, but which I did it would be some combination 
 
 ## The software I use
 
-At work I’m running Windows 10. It's ok, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom.
+At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom.
 
 At home (and whilst travelling) It’s a mix of [Ubuntu](https://www.ubuntu.com/), iOS, [LibreElec](https://libreelec.tv/) and [Raspbian](http://www.raspbian.org/). I've been using the i3 window manager for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
 
