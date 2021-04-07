@@ -14,15 +14,15 @@ Travel - I don't travel right now, but which I did it would be some combination 
 
 ## The software I use
 
-At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom.
+At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom, but apart from those I tend to use largely the same suite of applications as I do for everything else.
 
-At home (and whilst travelling) It’s a mix of [Ubuntu][21], [LibreElec][22] and [Raspbian][23]. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
+At home (and whilst travelling) It’s mostly [Ubuntu][21] with a side order of [LibreElec][22] and [Raspbian][23] for my Raspberry Pis. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
 
 Firefox has always been my main browser, and it surprises me that more people don't use it.
 
 Other software I use that I feel is somewhat noteworthy includes:
 
-[Wordpress][24] - All my blogs run on WordPress, including several that are only available on my home network (including an extensive knowledge base containing all IT related things I learn). I currently maintain a WordPress multisite installation and several stand alone sites.
+[Wordpress][24] - All my blogs run on WordPress. I currently maintain a WordPress multisite installation and several stand alone sites.
 
 [Atom][6] - A text editor that handles Markdown well, integrates nicely with GitHub, and can preview and export to PDF. I also use [Pandoc][7] to convert to PDF, HTML and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else).
 
