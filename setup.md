@@ -16,9 +16,9 @@ Travel - I don't travel right now, but which I did it would be some combination 
 
 At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom, but apart from those I tend to use largely the same suite of applications as I do for everything else.
 
-At home (and whilst travelling) It’s mostly [Ubuntu][21] with a side order of [LibreElec][22] and [Raspbian][23] for my Raspberry Pis. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well and still use a lot of default Gnome software.
+At home (and whilst travelling) It’s mostly [Ubuntu][21] with a side order of [LibreElec][22] and [Raspbian][23] for my Raspberry Pis. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well. The script I use for installing my computers is [available on Github][28] and is regularly updated so it generally represents the software I am currently using.
 
-Firefox has always been my main browser, and it surprises me that more people don't use it.
+Firefox has always been my main browser, and it surprises me that more people don't use it. I have a container running with various versions of all the main browsers so that I can test things, but otherwise it's Firefox all the way.  
 
 Other software I use that I feel is somewhat noteworthy includes:
 
@@ -70,3 +70,4 @@ Maybe I'm already living the dream, but the one thing I'd really like is to go b
  [25]: https://www.lenovo.com/gb/en/laptops/thinkpad/l-series/ThinkPad-L13-Gen-2/p/22TPL13L3N2
  [26]: https://www.amazon.co.uk/Hcman-Mechanical-Keyboard-Switches-Anti-ghosting-87-Keys-LED-Black/dp/B0713PRC21
  [27]: https://i3wm.org/
+ [28]: https://github.com/teknostatik/deploy_ubuntu
