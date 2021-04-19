@@ -1,16 +1,16 @@
 # My Setup
 
-I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This][19] a few years ago. It used to live as a page in my blog, but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time.
+I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This][19] a few years ago. It used to live as a page in my blog, but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time. Every couple of years I post a snapshot as a blog post to track the passage of time. This is one of those snapshots. 
 
 ## The hardware I use
 
-Home - I've just bought a new desktop computer that _mostly_ consists of components that are fairly new (this is a first for me). Everything feels snappy and fast, and I love it. I also have three monitors (now identical in both size and resolution which pleases me), a [mechanical keyboard][26], a [hand-me-down gaming mouse][17], and all the docks, cables and switches to connect everything together. My personal laptops are both Thinkpads - an [x260][3] for travel and couch-surfing, and an [x230][1] which largely gets used for digitising vinyl and testing software I plan on using on one of my main computers. I also have a variety of small laptops and Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes.
+**Home** - I've just bought a new desktop computer that _mostly_ consists of components that are fairly new (this is a first for me). Everything feels snappy and fast, and I love it. I also have three monitors (now identical in both size and resolution which pleases me), a [mechanical keyboard][26], a [hand-me-down gaming mouse][17], and all the docks, cables and switches to connect everything together. My personal laptops are both Thinkpads - an [x260][3] for travel and couch-surfing, and an [x230][1] which largely gets used for digitising vinyl and testing software I plan on using on one of my main computers. I also have a variety of Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes.
 
-Work from home - As home, but with a [Thinkpad L13][25] doing the driving. All it requires is a couple of cable switches and toggling the input on two of my monitors. I'd love to do this without crawling under my desk, but that's a problem for another day.
+**Work from home** - As home, but with a [Thinkpad L13][25] doing the driving. All it requires is a couple of cable switches and toggling the input on two of my monitors. I'd love to do this without crawling under my desk, but that's a problem for another day.
 
-Work - I've not been in my office for a while, but I think I still have something largely similar to my home setup, but with one less screen. I think I'll be taking my [very quiet solar-powered keyboard][2] in as I'll be sharing an office soon and mechanical keyboards are not conducive to good working relationships.
+**Work** - I've not been in my office for a while, but I think I still have something largely similar to my home setup, but with one less screen. I think I'll be taking my [very quiet solar-powered keyboard][2] in as I'll be sharing an office soon and mechanical keyboards are not conducive to good working relationships.
 
-Travel - I don't travel right now, but which I did it would be some combination of a Thinkpad, [Raspberry Pi Zero][20], Kindle and phone. I also carry bootable USB versions of [Ubuntu][21] and [Tails](https://tails.boum.org/) everywhere I go (even places I don't take a computer). Increasingly my travel hardware also includes a bike and related tools.
+**Travel** - I don't travel right now, but which I did it would be some combination of a Thinkpad, [Raspberry Pi Zero][20], Kindle and phone. I also carry bootable USB versions of [Ubuntu][21] and [Tails][29] everywhere I go (even places I don't take a computer). Increasingly my travel hardware also includes a bike and related tools.
 
 ## The software I use
 
@@ -24,23 +24,23 @@ Other software I use that I feel is somewhat noteworthy includes:
 
 [Wordpress][24] - All my blogs run on WordPress. I currently maintain a WordPress multisite installation and several stand alone sites.
 
-[Atom][6] - A text editor that handles Markdown well, integrates nicely with GitHub, and can preview and export to PDF. I also use [Pandoc][7] to convert to PDF, HTML and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else).
+[Atom][6] - A text editor that handles Markdown well, integrates nicely with GitHub, and can preview and export to PDF. I also use [Pandoc][7] to convert to PDF, HTML, and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else), and have also started experimenting with using Pandoc to generate slides and ebooks.
 
-[Trello][9] - I use this for my to do list, and it's a good way to visualise the planning and execution of any task based work.
+[Trello][9] - I use this for my to do list, and it's a good way to visualise the planning and execution of any task based work. It also reminds me when I have forgotten to do something.
 
 [Dropbox][10] - Cloud storage and syncing software to ensure I can access everything everywhere.
 
 [IFTTT][11] and [Buffer][12] - To automate as much as possible. Between them they handle a lot of the seemingly clever things in my digital life, and explain why I seem to be able to post to social media sites at times when I appear to be elsewhere.
 
-[Virtualbox][14] and [Multipass][8] - Because no-one needs as many physical computers as I had before virtualisation was a thing. Multipass is what I use the most at the moment, and it's really transformed the way I use containers for anything volatile or requiring increased privacy or security.
+[Virtualbox][14] and [Multipass][8] - Because no-one needs as many physical computers as I had before virtualisation was a thing. Multipass is what I use the most at the moment, and it's really transformed the way I use containers for anything volatile or requiring increased privacy or security. There are generally at least a couple of containers running on my computer which I can switch to if I need to use a different desktop environment or browser to test something.
 
-[Spotify][5] for discovering new music, and [Rhythmbox][18] for playing the music I already own.
+[Spotify][5] for discovering new music, and [Rhythmbox][18] for playing the music I already own. I have 162 days of digital music on my computer, and that's before we get to all the records and CDs I've not got round to digitising yet.
 
-[Github][16] for collecting together code that I've written and making the way my computers are set up available to other people in case it's useful.
+[Github][16] for collecting together code that I've written and making the way my computers are set up available to other people in case it's useful. I've also increasingly started using private repositories to version control writing and the notes I take at work.
 
 ## My dream setup
 
-Maybe I'm already living the dream, but the one thing I'd really like is to go back to doing everything on one computer (ideally running Ubuntu). I also yearn to live the life of a nomad, with just a bike, a change of clothes, and a tiny laptop to my name.
+Maybe I'm already living the dream, but the one thing I'd really like is to go back to doing everything on one computer. I also long for reasonably priced mechanical keyboards that are designed for people who just like to type, rather than gamers. Give me RGB and I will activate it, but sometimes I think something a bit more stylish might be more in keeping with the rest of my setup.
 
 
  [1]: https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/x230/
@@ -71,3 +71,4 @@ Maybe I'm already living the dream, but the one thing I'd really like is to go b
  [26]: https://www.amazon.co.uk/Hcman-Mechanical-Keyboard-Switches-Anti-ghosting-87-Keys-LED-Black/dp/B0713PRC21
  [27]: https://i3wm.org/
  [28]: https://github.com/teknostatik/deploy_ubuntu
+ [29]: https://tails.boum.org/
