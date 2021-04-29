@@ -1,6 +1,6 @@
 # My Setup
 
-I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This][19] a few years ago. It used to live as a page in my blog, but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time. Every couple of years I post a snapshot as a blog post to track the passage of time. This is one of those snapshots. 
+I've been maintaining an up to date list of what hardware and software I use since I discovered [Uses This][19] a few years ago. It used to live as a page in my blog, but I like to maintain an up to date version so I can keep track of exactly what I'm using and how it changes over time. Every couple of years I post a snapshot as a blog post to track the passage of time. This is one of those snapshots.
 
 ## The hardware I use
 
@@ -26,7 +26,7 @@ Other software I use that I feel is somewhat noteworthy includes:
 
 [Atom][6] - A text editor that handles Markdown well, integrates nicely with GitHub, and can preview and export to PDF. I also use [Pandoc][7] to convert to PDF, HTML, and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else), and have also started experimenting with using Pandoc to generate slides and ebooks.
 
-[Trello][9] - I use this for my to do list, and it's a good way to visualise the planning and execution of any task based work. It also reminds me when I have forgotten to do something.
+[Trello][9] - I use this for my to do list, and it's a good way to visualise the planning and execution of any task based work. It also reminds me when I have forgotten to do something (or when my due dates are unrealistic, which can happen).
 
 [Dropbox][10] - Cloud storage and syncing software to ensure I can access everything everywhere.
 
@@ -41,6 +41,8 @@ Other software I use that I feel is somewhat noteworthy includes:
 ## My dream setup
 
 Maybe I'm already living the dream, but the one thing I'd really like is to go back to doing everything on one computer. I also long for reasonably priced mechanical keyboards that are designed for people who just like to type, rather than gamers. Give me RGB and I will activate it, but sometimes I think something a bit more stylish might be more in keeping with the rest of my setup.
+
+I also think I need to write a better dream setup section soon.
 
 
  [1]: https://www.lenovo.com/gb/en/laptops/thinkpad/x-series/x230/
