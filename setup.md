@@ -8,7 +8,7 @@ I've been maintaining an up to date list of what hardware and software I use sin
 
 **Work from home** - As home, but with a [Thinkpad L13][25] doing the driving. All it requires is a couple of cable switches and toggling the input on two of my monitors. I'd love to do this without crawling under my desk, but that's a problem for another day.
 
-**Work** - I've not been in my office for a while, but I think I still have something largely similar to my home setup, but with one less screen. I think I'll be taking my [very quiet solar-powered keyboard][2] in as I'll be sharing an office soon and mechanical keyboards are not conducive to good working relationships (although I'm looking at a "normal" looking keyboard with brown switches at the moment so that might do the job as well).
+**Work** - I have recently started working part-time in my office, after 18 months of working largely at home. My setup is largely the same (with one less screen), and I'll be alternating between a new mechanical keyboard I've just put together and my [very quiet solar-powered keyboard][2] as I'll be sharing an office soon and mechanical keyboards are not conducive to good working relationships. I also clearly need a plant a few more personalisations if I am going to be spending regular time there again.
 
 **Travel** - I don't travel right now, but which I did it would be some combination of a Thinkpad, [Raspberry Pi Zero][20], Kindle and phone. I also carry bootable USB versions of [Ubuntu][21] and [Tails][29] everywhere I go (even places I don't take a computer). Increasingly my travel hardware also includes a bike and related tools.
 
