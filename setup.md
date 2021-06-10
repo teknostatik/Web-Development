@@ -70,7 +70,7 @@ I also think I need to write a better dream setup section soon.
  [23]: http://www.raspbian.org/
  [24]: https://wordpress.org/
  [25]: https://www.lenovo.com/gb/en/laptops/thinkpad/l-series/ThinkPad-L13-Gen-2/p/22TPL13L3N2
- [26]: https://www.amazon.co.uk/Hcman-Mechanical-Keyboard-Switches-Anti-ghosting-87-Keys-LED-Black/dp/B0713PRC21
+ [26]: https://www.amazon.co.uk/EPOMAKER-Swappable-Mechanical-Keyboard-Waterproof-Black/dp/B088FKJBRG
  [27]: https://i3wm.org/
  [28]: https://github.com/teknostatik/deploy_ubuntu
  [29]: https://tails.boum.org/
