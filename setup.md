@@ -4,7 +4,7 @@ I've been maintaining an up to date list of what hardware and software I use sin
 
 ## The hardware I use
 
-**Home** - I've just bought a new desktop computer that _mostly_ consists of components that are fairly new (this is a first for me). Everything feels snappy and fast, and I love it. I also have three monitors (now identical in both size and resolution which pleases me), a [mechanical keyboard][26], a [hand-me-down gaming mouse][17], and all the docks, cables and switches to connect everything together. My personal laptops are both Thinkpads - an [x260][3] for travel and couch-surfing, and an [x230][1] which largely gets used for digitising vinyl and testing software I plan on using on one of my main computers. I also have a variety of Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes, and my current project is to set up a secondary desk downstairs where I can work on personal projects from a different location in the evenings (I'll write more about that setup soon).
+**Home** - I recently bought a new desktop computer that _mostly_ consists of components that are fairly new (this is a first for me). Everything feels snappy and fast, and I love it. I also have three monitors (now identical in both size and resolution which pleases me), a [mechanical keyboard][26], a [hand-me-down gaming mouse][17], and all the docks, cables and switches to connect everything together. My personal laptops are both Thinkpads - an [x260][3] for travel and couch-surfing, and an [x230][1] which largely gets used for digitising vinyl and testing software I plan on using on one of my main computers. I also have a variety of Raspberry Pis that fulfil various server and media functions, and a Synology NAS for backups. I'm trying to phase out a lot of my older computers and only use newer machines with SSDs and lots of memory, but it's hard to let go sometimes, and my current project is to set up a secondary desk downstairs where I can work on personal projects from a different location in the evenings. I have that largely working now, but some of the hardware is very old so I suspect my next few purchases will be dedicated to bringing things a little more up to date.
 
 **Work from home** - As home, but with a [Thinkpad L13][25] doing the driving. All it requires is a couple of cable switches and toggling the input on two of my monitors. I'd love to do this without crawling under my desk, but that's a problem for another day.
 
@@ -16,7 +16,7 @@ I've been maintaining an up to date list of what hardware and software I use sin
 
 At work I’m running Windows 10. It largely does the job, but I would like to be able to live without it. Most of my day is spent doing video calls using either Teams or Zoom, but apart from those I tend to use largely the same suite of applications as I do for everything else.
 
-At home (and whilst travelling) It’s mostly [Ubuntu][21] with a side order of [LibreElec][22] and [Raspbian][23] for my Raspberry Pis. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well. The script I use for installing my computers is [available on Github][28] and is regularly updated so it generally represents the software I am currently using.
+At home (and whilst travelling) It’s mostly [Ubuntu][21] with a side order of [Debian][22] and [Raspberry Pi OS][23]. I've been using the [i3 window manager][27] for Ubuntu since early 2020, although I do have Gnome installed on most of my computers as well. The script I use for installing my computers is [available on Github][28] and is regularly updated so it generally represents the software I am currently using.
 
 Firefox has always been my main browser, and it surprises me that more people don't use it. I have a container running with various versions of all the main browsers so that I can test things, but otherwise it's Firefox all the way.  
 
@@ -66,7 +66,7 @@ I also think I need to write a better dream setup section soon.
  [19]: https://usesthis.com/
  [20]: https://www.raspberrypi.org/products/raspberry-pi-zero/
  [21]: https://www.ubuntu.com
- [22]: https://libreelec.tv/
+ [22]: https://www.debian.org/
  [23]: http://www.raspbian.org/
  [24]: https://wordpress.org/
  [25]: https://www.lenovo.com/gb/en/laptops/thinkpad/l-series/ThinkPad-L13-Gen-2/p/22TPL13L3N2
