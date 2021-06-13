@@ -22,7 +22,7 @@ Firefox has always been my main browser, and it surprises me that more people do
 
 Other software I use that I feel is somewhat noteworthy includes:
 
-[Wordpress][24] - All my blogs run on WordPress. I currently maintain a WordPress multisite installation and several stand alone sites.
+[Wordpress][24] - All my blogs run on WordPress. I currently maintain a WordPress multisite installation and several stand alone sites. Everything I write is aggregated locally, so I have a searchable archive that covers everything.
 
 [Atom][6] - A text editor that handles Markdown well, integrates nicely with GitHub, and can preview and export to PDF. I also use [Pandoc][7] to convert to PDF, HTML, and/or .docx if required (I try not to use office software until the point I have to share what I'm working on with someone else), and have also started experimenting with using Pandoc to generate slides and ebooks.
 
