@@ -1,6 +1,6 @@
 ---
 generator: pandoc
-title: aoty_2023
+title: Albums of the Year - 2023
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
