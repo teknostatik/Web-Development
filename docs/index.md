@@ -4,8 +4,6 @@ title: Albums of the Year - 2023
 viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
-# AOTY 2023
-
 These are the records that have been the soundtrack to my 2023. If 2022
 was a bad year for the world, then 2023 was more of the same, with a
 side-dose of personal horror. I did the exact same job for a whole year
